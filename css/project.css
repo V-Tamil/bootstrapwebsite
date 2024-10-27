@@ -1,0 +1,79 @@
+.main {
+  margin-top: 20px;
+  background-color: rgb(243, 248, 248);
+}
+.pro {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  background: linear-gradient(to right, blue, rgb(250, 19, 200));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.main-box {
+  width: 550px;
+  margin: 10px auto;
+}
+.box1 {
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  margin-top: 20px;
+  padding: 60px;
+  border-radius: 8px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+.card1 {
+  margin-top: 10px;
+}
+.card1 h1 {
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+.value {
+  border-radius: 5px;
+  padding: 60px;
+  color: rgb(119, 117, 117);
+  background-color: rgb(12, 12, 12);
+}
+.card2 h1 {
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+.box2 {
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  margin-top: 40px;
+  padding: 60px;
+  border-radius: 8px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+.color-box {
+  padding-top: 60px;
+  text-align: center;
+  height: 300px;
+  background-image: linear-gradient(
+    to right,
+    rgba(6, 61, 124, 0.884),
+    rgb(250, 19, 200)
+  );
+}
+.head {
+  font-size: 50px;
+  color: white;
+  margin-top: 10px;
+}
+.btn {
+  all: unset;
+  font-size: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 10px 30px;
+  border: 1px solid white;
+  color: white;
+}

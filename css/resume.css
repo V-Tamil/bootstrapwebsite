@@ -1,0 +1,163 @@
+.heading {
+  margin-top: 20px;
+  font-size: 40px;
+  text-align: center;
+  background: linear-gradient(to right, blue, rgb(241, 47, 199));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.experience {
+  display: flex;
+  justify-content: center;
+}
+.head1 {
+  font-size: 22px;
+  margin-right: 350px;
+  color: blue;
+}
+.head2 {
+  font-size: 20px;
+  color: white;
+  padding: 10px 15px;
+  background-color: blue;
+  border-radius: 5px;
+}
+.box {
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  width: 700px;
+  height: 220px;
+  padding-top: 30px;
+  border-radius: 5px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-around;
+}
+.year {
+  color: blue;
+  margin-bottom: 4px;
+}
+.card1 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px 10px 0px 50px;
+  margin-left: 50px;
+  width: 400px;
+  height: 100px;
+  background-color: rgb(216, 223, 220);
+}
+.para1 {
+  padding: 25px 25px 0px 25px;
+}
+.box1 {
+  margin-top: 50px;
+  width: 700px;
+  height: 220px;
+  margin: 10px auto;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+}
+.card2 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px 10px 0px 50px;
+  margin-left: 50px;
+  width: 400px;
+  height: 120px;
+  background-color: rgb(216, 223, 220);
+}
+.para2 {
+  padding: 60px 25px 0px 25px;
+}
+.edu {
+  font-size: 20px;
+  margin-left: 280px;
+  margin-top: 20px;
+  color: rgb(236, 10, 85);
+}
+.box3 {
+  margin-top: 50px;
+  width: 700px;
+  height: 220px;
+  margin: 10px auto;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+}
+.card3 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px 10px 0px 50px;
+  margin-left: 50px;
+  width: 400px;
+  height: 140px;
+  background-color: rgb(216, 223, 220);
+}
+.para3 {
+  padding: 60px 25px 0px 25px;
+}
+.box4 {
+  margin-top: 50px;
+  width: 700px;
+  height: 220px;
+  margin: 10px auto;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+  box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
+}
+.card4 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px 10px 0px 50px;
+  margin-left: 50px;
+  width: 400px;
+  height: 150px;
+  background-color: rgb(216, 223, 220);
+}
+.para4 {
+  padding: 60px 25px 0px 25px;
+}
+.main-box {
+  padding: 20px;
+  width: 700px;
+  border-radius: 8px;
+  height: 550px;
+  margin: 10px auto;
+  -webkit-box-shadow: 10px 10px 5px -1px rgba(0, 0, 0, 0.14);
+  -moz-box-shadow: 10px 10px 5px -1px rgba(0, 0, 0, 0.14);
+  box-shadow: 10px 10px 5px -1px rgba(0, 0, 0, 0.14);
+}
+.skill {
+  margin: 30px;
+  font-size: 20px;
+  background: linear-gradient(to right, blue, rgb(241, 47, 199));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 45px 30px;
+}
+.item {
+  color: rgb(114, 112, 112);
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  text-align: center;
+  -webkit-box-shadow: 10px 10px 5px -1px rgba(0, 0, 0, 0.14);
+  -moz-box-shadow: 10px 10px 5px -1px rgba(0, 0, 0, 0.14);
+  box-shadow: 10px 10px 5px -1px rgba(0, 0, 0, 0.14);
+}

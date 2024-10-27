@@ -1,0 +1,53 @@
+.contact-page {
+  text-align: center;
+  background-color: rgb(243, 248, 248);
+}
+.file-box {
+  width: 50px;
+  height: 50px;
+  margin: 40px auto 10px auto;
+  border-radius: 10px;
+  background-image: linear-gradient(
+    to right,
+    rgba(6, 61, 124, 0.884),
+    rgb(250, 19, 200)
+  );
+}
+.fa-solid {
+  padding-top: 16px;
+  color: white;
+  font-size: 22px;
+}
+.heading {
+  font-size: 35px;
+}
+.para {
+  color: gray;
+  font-size: 16px;
+  font-weight: 400;
+}
+.from {
+  width: 350px;
+  height: 500px;
+  margin: 10px auto;
+}
+input {
+  all: unset;
+  padding: 15px 196px 15px 10px;
+  margin-top: 20px;
+  border-radius: 3px;
+  border: 1px solid rgb(175, 174, 174);
+}
+textarea {
+  margin-top: 20px;
+  padding: 2px 0px 80px 5px;
+}
+button {
+  all: unset;
+  margin-top: 5px;
+  background-color: blue;
+  padding: 15px 170px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+}

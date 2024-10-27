@@ -1,0 +1,174 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 14px;
+}
+.nav {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+} */
+/* .container {
+  width: 75%;
+  margin: 20px auto;
+} */
+/* .logo {
+  font-size: 18px;
+  color: blue;
+}
+.list {
+  display: flex;
+}
+.list li {
+  list-style: none;
+  padding-left: 20px;
+}
+.list a {
+  font-weight: 600;
+  color: rgb(99, 98, 98);
+  text-decoration: none;
+} */
+.container-box {
+  margin-top: 40px;
+  text-align: center;
+}
+/* .main {
+   margin-top: 50%; 
+  width: 20%;
+  margin: 5% auto 2% auto;
+} */
+.main-box {
+  color: white;
+  padding: 2px 8px;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  margin: 10px 0px;
+  border-radius: 5px;
+  background-image: linear-gradient(
+    to right,
+    rgba(6, 61, 124, 0.884),
+    rgb(250, 19, 200)
+  );
+}
+.para {
+  margin-top: 25px;
+  font-size: 26px;
+  font-weight: 100;
+  color: gray;
+}
+.heading {
+  font-size: 50px;
+  font-weight: 900;
+  background: linear-gradient(to right, blue, rgb(250, 19, 200));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn {
+  margin-top: 4%;
+  padding-right: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.resume {
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  height: 50px;
+  width: 100px;
+  display: grid;
+  place-items: center;
+  background-color: blue;
+  color: white;
+}
+.project {
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  height: 50px;
+  width: 100px;
+  display: grid;
+  place-items: center;
+  background-color: white;
+  border: 1px solid;
+}
+.center-box {
+  width: 350px;
+  height: 350px;
+  margin: 80px auto;
+  /* display: flex;
+  justify-content: center; */
+  /* background-color: red; */
+  border-radius: 10px;
+  background-image: linear-gradient(
+    to right,
+    rgba(6, 61, 124, 0.884),
+    rgb(250, 19, 200)
+  );
+}
+
+.about {
+  height: 420px;
+  padding-top: 80px;
+  background-color: rgb(243, 248, 248);
+  text-align: center;
+}
+.about-me {
+  font-size: 50px;
+  background: linear-gradient(to right, blue, rgb(241, 47, 199));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.para1 {
+  margin-top: 25px;
+  color: rgb(80, 77, 77);
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.lorem {
+  color: rgb(94, 92, 92);
+  /* max-width: 900px; */
+  margin-top: 28px;
+}
+.lorem1 {
+  color: rgb(94, 92, 92);
+  margin: 5px;
+  margin-bottom: 20px;
+}
+.fa-brands {
+  font-size: 35px;
+  padding-right: 15px;
+  background: linear-gradient(to right, blue, rgb(241, 47, 199));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fa-solid {
+  font-size: 35px;
+  background: linear-gradient(to right, blue, rgb(241, 47, 199));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* .footer {
+  padding: 22px;
+  margin-bottom: 2px;
+  background-color: whitesmoke;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.footer ul {
+  display: flex;
+}
+.footer li {
+  list-style: none;
+  padding-left: 20px;
+}
+.footer a {
+  color: blue;
+} */

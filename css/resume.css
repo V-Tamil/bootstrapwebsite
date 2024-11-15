@@ -10,6 +10,7 @@
   display: flex;
   justify-content: center;
 }
+
 .head1 {
   font-size: 22px;
   margin-right: 350px;
@@ -18,9 +19,13 @@
 .head2 {
   font-size: 20px;
   color: white;
-  padding: 10px 15px;
+  padding: 10px 10px;
   background-color: blue;
   border-radius: 5px;
+}
+.fa-arrow-down {
+  font-size: 22px;
+  padding-right: 10px;
 }
 .box {
   -webkit-box-shadow: 8px 8px 5px -4px rgba(0, 0, 0, 0.13);
